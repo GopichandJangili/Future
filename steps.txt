@@ -1,0 +1,14 @@
+
+for first time setup
+1. go to the folder path using cmd prompt
+
+2.pip install -r r.txt
+
+
+for execution of code 
+
+1.go to the folder path using cmd prompt
+
+
+2. run the following cmd:
+hupper -m upload
